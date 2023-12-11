@@ -1,5 +1,17 @@
 {
   "webcredentials": {
-    "apps": [ "UU2YA799VT.com.moreharvest.moreharvestapp" ]
+    "apps": ["UU2YA799VT.com.moreharvest.moreharvestapp"]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "UU2YA799VT.com.moreharvest.moreharvestapp",
+        "paths": [
+          "/basic/*",
+          "/security/*"
+        ]
+      }
+    ]
   }
 }
